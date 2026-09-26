@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Large datasets
+dataset/
+6ab10eb3b23ba_student_resource/student_resource/dataset/
+
+# Trained models
+*.joblib
+
+# macOS files
+__MACOSX/
+.DS_Store
